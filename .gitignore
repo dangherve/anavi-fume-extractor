@@ -21,3 +21,4 @@ _autosave-*
 *.csv
 
 plots
+!buildTools
