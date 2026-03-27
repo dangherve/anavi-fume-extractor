@@ -23,3 +23,5 @@ _autosave-*
 plots
 
 !buildTools
+
+!.woodpecker
